@@ -1,4 +1,3 @@
-#%%
 """
     Sup!
     This is my ETL pipeline following the website instructions below: 
