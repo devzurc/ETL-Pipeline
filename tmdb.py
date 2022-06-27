@@ -56,4 +56,3 @@ df['day_of_week'] = df['release_date'].dt.day_name()
 df_time_columns = ['id', 'release_date', 'day', 'month', 'year', 'day_of_week']
 
 df[df_time_columns]
-# %%
