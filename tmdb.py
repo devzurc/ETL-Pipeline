@@ -3,7 +3,6 @@
     This is my ETL pipeline following the website instructions below: 
     https://towardsdev.com/create-an-etl-pipeline-in-python-with-pandas-in-10-minutes-6be436483ec9
 """
-
 import pandas as pd
 import requests
 import config
