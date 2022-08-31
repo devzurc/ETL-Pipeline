@@ -15,3 +15,4 @@ Transform — structure, format, or clean the data, depending on what we need it
 Load— write the data to an external destination where it can be used by another application. In this exercise, we’ll be writing each table we create to CSV. In a real-world data pipeline we would write to databases or other data stores, store our files in different formats, or send data to different locations around the world.
 
 ## Let's code!
+
